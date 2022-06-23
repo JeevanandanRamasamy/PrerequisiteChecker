@@ -1,6 +1,8 @@
 package prereqchecker;
 
 import java.util.*;
+import edu.princeton.cs.algs4.StdOut;
+import edu.princeton.cs.algs4.StdIn;
 
 public class SchedulePlan {
     public static void main(String[] args) {
